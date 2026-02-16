@@ -74,5 +74,5 @@ This :doc:`dataset<../examples/tomography_3d>` represents the most demanding cas
 .. admonition:: Key Takeaway
     :class: tip
    
-   Distributed processing significantly improves denoiser performance, especially for larger images.
+    Distributed processing significantly improves denoiser performance, especially for larger images.
 
